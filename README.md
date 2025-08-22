@@ -42,7 +42,7 @@ O objetivo final é transformar este agente em um sistema central de automação
 
 ## 🎬 Demonstração
 
-[ASSISTA A UMA DEMONSTRAÇÃO EM VÍDEO AQUI](Em Breve...)
+[EM BREVE UM VÍDEO DEMONSTRAÇÃO AQUI...](https://github.com/NaassonRibeiro))
 
 ## 📄 Código-Fonte
 
