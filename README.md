@@ -42,7 +42,7 @@ O objetivo final é transformar este agente em um sistema central de automação
 
 ## 🎬 Demonstração
 
-Para ver o agente em ação, assista ao vídeo de demonstração abaixo.
+Para ver o agente em ação, em breve disponibilizarei um vídeo de demonstração abaixo.
 
 <p align="center">
   <a href="EM-BREVE-VIDEO-NO-YOUTUBE">
