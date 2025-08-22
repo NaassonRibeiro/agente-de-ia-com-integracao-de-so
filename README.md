@@ -50,7 +50,7 @@ O código-fonte deste projeto é mantido em um **repositório privado** para ger
 
 ## ✍️ Sobre o Desenvolvedor
 
-**Naasson Ribeiro**
+Este projeto foi desenvolvido por **Naasson Ribeiro**
 
 * **GitHub:** [NaassonRibeiro](https://github.com/NaassonRibeiro/)
 * **LinkedIn:** [NaassonRibeiro](https://www.linkedin.com/in/NaassonRibeiro/)
