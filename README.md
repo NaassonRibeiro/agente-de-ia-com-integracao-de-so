@@ -7,7 +7,7 @@
 
 ---
 
-![GIF de demonstração do Agente em ação](link-para-seu-gif-ou-imagem.gif)
+![Em breve uma GIF de demonstração do Agente em ação](link-gif-demonstracao.gif)
 
 ## 🎯 O Projeto
 
