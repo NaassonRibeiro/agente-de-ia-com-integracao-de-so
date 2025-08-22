@@ -52,5 +52,5 @@ O código-fonte deste projeto é mantido em um **repositório privado** para ger
 
 **[Seu Nome Completo]**
 
-* **GitHub:** [github.com/NaassonRibeiro/](https://github.com/NaassonRibeiro/)
-* **LinkedIn:** [linkedin.com/in/NaassonRibeiro](https://www.linkedin.com/in/NaassonRibeiro/)
+* **GitHub:** [NaassonRibeiro](https://github.com/NaassonRibeiro/)
+* **LinkedIn:** [NaassonRibeiro](https://www.linkedin.com/in/NaassonRibeiro/)
